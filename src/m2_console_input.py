@@ -9,10 +9,10 @@ Authors: David Mutchler, Vibha Alangar, Matt Boutell, Dave Fisher,
 import math as math
 def main():
     """ TESTs the functions in this module (by calling them). """
-    #double_a_float()
+    double_a_float()
     #print_an_integer_many_times()
     #print_an_integer_many_times_on_one_row()
-    input_it_all()
+    #input_it_all()
 
 
 def double_a_float():

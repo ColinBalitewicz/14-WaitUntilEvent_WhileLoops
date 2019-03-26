@@ -40,8 +40,8 @@ def main():
     """ Calls the   TEST   functions in this module. """
     #run_test_sum_until_prime_input()
     #run_test_next_prime()
-    run_test_prime_gap()
-    #run_test_wait_for_sum_of_cubes()
+    #run_test_prime_gap()
+    run_test_wait_for_sum_of_cubes()
 
 
 def is_prime(n):
